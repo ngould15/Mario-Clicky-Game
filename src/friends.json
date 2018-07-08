@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Mario",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/3/3d/MP7_Mario.png/revision/latest?cb=20180122213136&path-prefix=en",
+      "occupation": "Plumber",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Luigi",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/6/68/Jumping_Luigi_Artwork_-_New_Super_Mario_Bros.png/revision/latest?cb=20150705213638&path-prefix=en",
+      "occupation": "Plumber",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Princess Peach",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/f/f1/Princess_Peach_-_New_Super_Mario_Bros..png/revision/latest?cb=20171004214052&path-prefix=en",
+      "occupation": "Princess",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Bowser",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/d/dc/Bowser64DS.png/revision/latest?cb=20110828153657&path-prefix=en",
+      "occupation": "Boss",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Toad",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/0/0b/Toad_left_sitting.png/revision/latest?cb=20140607102647&path-prefix=en",
+      "occupation": "Human Mushroom",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Donkey Kong",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/a/a0/Super_Smash_Bros._Ultimate_-_Character_Art_-_Donkey_Kong.png/revision/latest?cb=20180612221124&path-prefix=en",
+      "occupation": "Boss",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Goomba",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/d/d5/GoombaNSMB.png/revision/latest?cb=20110724131649&path-prefix=en",
+      "occupation": "Evil Mushroom",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Boo",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/9/94/LMDM_Boo.png/revision/latest?cb=20160830021754&path-prefix=en",
+      "occupation": "Ghost",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Yoshi",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/6/69/Yoshi_MP9.png/revision/latest?cb=20150208053743&path-prefix=en",
+      "occupation": "Yoshi",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Princess Daisy",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/2/22/Daisy_MP10.png/revision/latest?cb=20170502010843&path-prefix=en",
+      "occupation": "Princess",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Wario",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/8/86/469px-Warioart2.png/revision/latest?cb=20170711232706&path-prefix=en",
+      "occupation": "Evil Mario",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Waluigi",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/4/4c/Waluigi_MP10.png/revision/latest?cb=20180605110246&path-prefix=en",
+      "occupation": "Evil Luigi",
+      "clicked": false
+    }
+  ]
